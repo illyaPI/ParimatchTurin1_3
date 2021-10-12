@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "863536768870",
+    "project_id": "commatparismarcom",
+    "storage_bucket": "commatparismarcom.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:863536768870:android:dbdfe70104e959f3e8caa7",
+        "android_client_info": {
+          "package_name": "com.mat.paris.mar.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "863536768870-v2mfl4sr0nhd2cv86gqtht5va19c2o2p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuB-Xu1PfAUNwcW9v-8DG8LH8wIAua6Lc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "863536768870-v2mfl4sr0nhd2cv86gqtht5va19c2o2p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
